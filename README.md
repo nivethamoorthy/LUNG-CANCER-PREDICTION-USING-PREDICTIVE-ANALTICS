@@ -45,11 +45,6 @@ Model Evaluation and testing module[Completed]
 Predictive analytics[60% Completed]
 
 ## Pending Work
-Data collection module[none]
-Data preparation module[none]
-Apply model[none]
-Training module[none]
-Model Evaluation and testing module[none]
 Predictive analytics[real time data collection is yet in collection process and connection is pending]
 
 
