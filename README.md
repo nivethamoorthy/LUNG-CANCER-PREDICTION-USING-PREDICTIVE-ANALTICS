@@ -10,12 +10,12 @@
 
 
 ### Modules
-Data collection module[Nandhisha]
-Data preparation module[Nandhisha]
-Apply model[Nivetha]
-Training module[Sudha]
-Model Evaluation and testing module[Sudha/Nivetha]
-Predictive analytics[Nandhisha/Nivetha/Sudha]
+- Data collection module[Nandhisha]
+- Data preparation module[Nandhisha]
+- Apply model[Nivetha]
+- Training module[Sudha]
+- Model Evaluation and testing module[Sudha/Nivetha]
+- Predictive analytics[Nandhisha/Nivetha/Sudha]
 
 ### Data collection
 Data is collected from various sources. The dataset is collected for lung cancer based on fields such as gender, smoking habit,wheezing, alchocol consumption etc.,
